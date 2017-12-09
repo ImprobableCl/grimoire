@@ -6,9 +6,9 @@ sources: [PHB.211]
 tags: [sorcerer, wizard, cantrip, conjuration]
 ---
 
-**Truco, conjuración **
+**Truco, conjuración**
 
-**Tiempo de lanzamiento: 1 acción
+**Tiempo de lanzamiento**: 1 acción
 
 **Alcance**: 60 pies (12 casillas, 18 m)
 
