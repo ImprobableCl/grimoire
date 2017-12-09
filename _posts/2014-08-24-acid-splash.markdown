@@ -6,7 +6,7 @@ sources: [PHB.211]
 tags: [sorcerer, wizard, cantrip, conjuration]
 ---
 
-- **Truco, conjuración**
+**Truco, conjuración **
 
 **Tiempo de lanzamiento: 1 acción
 
